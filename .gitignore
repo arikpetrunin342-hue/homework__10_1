@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.idea/
+poetry.lock
+poetry.toml
+pyproject.toml
+.venv/
