@@ -218,7 +218,3 @@ __marimo__/
 .streamlit/secrets.toml
 
 .idea/
-poetry.lock
-poetry.toml
-pyproject.toml
-.venv/
